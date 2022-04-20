@@ -16,25 +16,31 @@
         <category term="梦想" />
         <category term="前进" />
         <item>
-            <guid isPermalink="true">https://zhangxiaofei.cool/FantasyRecord/store/%E6%B8%A9%E5%AE%A4%E4%B8%AD/</guid>
-            <title>123</title>
-            <link>https://zhangxiaofei.cool/FantasyRecord/store/%E6%B8%A9%E5%AE%A4%E4%B8%AD/</link>
-            <category term="幻想录" scheme="https://zhangxiaofei.cool/categories/FantasyRecord/" />
-            <category term="小说" scheme="https://zhangxiaofei.cool/categories/FantasyRecord/store/" />
-            <pubDate>Fri, 26 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;我喜欢康纳，阿迪萨亚&lt;/p&gt;
-&lt;p&gt;我同样喜欢保罗・科斯塔，大麻小麻&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://zhangxiaofei.cool/FantasyRecord/philosophy/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</guid>
-            <title>测试</title>
+            <title>理想国</title>
             <link>https://zhangxiaofei.cool/FantasyRecord/philosophy/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
             <category term="幻想录" scheme="https://zhangxiaofei.cool/categories/FantasyRecord/" />
             <category term="哲学" scheme="https://zhangxiaofei.cool/categories/FantasyRecord/philosophy/" />
             <pubDate>Fri, 26 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;测试文件&lt;/p&gt;
- ]]></description>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://zhangxiaofei.cool/FantasyRecord/philosophy/%E7%90%86%E6%83%B3%E5%9B%BD/</guid>
+            <title>理想国</title>
+            <link>https://zhangxiaofei.cool/FantasyRecord/philosophy/%E7%90%86%E6%83%B3%E5%9B%BD/</link>
+            <category term="幻想录" scheme="https://zhangxiaofei.cool/categories/FantasyRecord/" />
+            <category term="哲学" scheme="https://zhangxiaofei.cool/categories/FantasyRecord/philosophy/" />
+            <pubDate>Fri, 26 Nov 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://zhangxiaofei.cool/FantasyRecord/store/%E9%BE%99%E6%97%8F/</guid>
+            <title>凡王之血，必以剑终</title>
+            <link>https://zhangxiaofei.cool/FantasyRecord/store/%E9%BE%99%E6%97%8F/</link>
+            <category term="幻想录" scheme="https://zhangxiaofei.cool/categories/FantasyRecord/" />
+            <category term="小说" scheme="https://zhangxiaofei.cool/categories/FantasyRecord/store/" />
+            <pubDate>Fri, 26 Nov 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://zhangxiaofei.cool/language/english/%E8%AF%AD%E6%B3%95/</guid>

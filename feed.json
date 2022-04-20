@@ -7,25 +7,36 @@
     "home_page_url": "https://zhangxiaofei.cool",
     "items": [
         {
-            "id": "https://zhangxiaofei.cool/FantasyRecord/store/%E6%B8%A9%E5%AE%A4%E4%B8%AD/",
-            "url": "https://zhangxiaofei.cool/FantasyRecord/store/%E6%B8%A9%E5%AE%A4%E4%B8%AD/",
-            "title": "123",
-            "date_published": "2021-11-25T16:00:00.000Z",
-            "content_html": "<p>我喜欢康纳，阿迪萨亚</p>\n<p>我同样喜欢保罗・科斯塔，大麻小麻</p>\n",
-            "tags": [
-                "幻想录",
-                "小说"
-            ]
-        },
-        {
             "id": "https://zhangxiaofei.cool/FantasyRecord/philosophy/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/",
             "url": "https://zhangxiaofei.cool/FantasyRecord/philosophy/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/",
-            "title": "测试",
+            "title": "理想国",
             "date_published": "2021-11-25T16:00:00.000Z",
-            "content_html": "<p>测试文件</p>\n",
+            "content_html": "",
             "tags": [
                 "幻想录",
                 "哲学"
+            ]
+        },
+        {
+            "id": "https://zhangxiaofei.cool/FantasyRecord/philosophy/%E7%90%86%E6%83%B3%E5%9B%BD/",
+            "url": "https://zhangxiaofei.cool/FantasyRecord/philosophy/%E7%90%86%E6%83%B3%E5%9B%BD/",
+            "title": "理想国",
+            "date_published": "2021-11-25T16:00:00.000Z",
+            "content_html": "",
+            "tags": [
+                "幻想录",
+                "哲学"
+            ]
+        },
+        {
+            "id": "https://zhangxiaofei.cool/FantasyRecord/store/%E9%BE%99%E6%97%8F/",
+            "url": "https://zhangxiaofei.cool/FantasyRecord/store/%E9%BE%99%E6%97%8F/",
+            "title": "凡王之血，必以剑终",
+            "date_published": "2021-11-25T16:00:00.000Z",
+            "content_html": "",
+            "tags": [
+                "幻想录",
+                "小说"
             ]
         },
         {
